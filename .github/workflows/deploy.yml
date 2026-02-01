@@ -32,7 +32,7 @@ jobs:
         run: npm run build
 
       - name: Adicionar CNAME para domínio personalizado
-        run: echo 'imlucas.dev.br' > dist/CNAME
+        run: echo 'links.tulipan.com.br' > dist/CNAME
 
       - name: Configurar saída para GitHub Pages
         run: touch dist/.nojekyll
@@ -52,3 +52,4 @@ jobs:
       - name: Deploy para GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+  
