@@ -1,0 +1,78 @@
+{
+  "html": {
+    "lang": "pt-BR",
+    "title": "Tulipan",
+    "description": "Acompanhe nossos lançamentos pelas redes sociais!",
+    "favicon": "/favicon.ico"
+  },
+  "background": {
+    "firstColor": "#1c6230",
+    "secondColor": "#1c6230"
+  },
+  "header": {
+    "image": "/profile.webp",
+    "alt": "Tulipan",
+    "typo": "/typo_white.webp",
+    "alt_typo": "Tulipan",
+    "title": "",
+    "description": "Bordado & Amigurumi",
+    "textColor": "#d5d0c2"
+  },
+  "socials": [
+    {
+      "network": "GitHub",
+      "username": "LucasTMartins",
+      "url": "https://github.com/LucasTMartins"
+    },
+    {
+      "network": "LinkedIn",
+      "username": "LucasTMartins",
+      "url": "https://www.linkedin.com/in/lucastmartins/"
+    },
+    {
+      "network": "Mail",
+      "username": "Tulipan",
+      "url": "mailto:contato@tulipan.com.br"
+    }
+  ],
+  "featured": [
+    {
+      "network": "Link",
+      "url": "/maintenance",
+      "textColor": "#eff1f5",
+      "backgroundImage": "cover.webp",
+      "backgroundColor": null,
+      "borderRadius": ".75rem"
+    }
+  ],
+  "buttons": [
+    {
+      "network": "Instagram",
+      "url": "https://www.instagram.com/tulipan_atelie?igsh=MTAwbmx2cmhrcHJ2aQ==",
+      "title": "Acompanhe as Novidades no Instagram!",
+      "textColor": "#eff1f5",
+      "backgroundColor": "#f5571b",
+      "borderRadius": ".75rem"
+    },
+    {
+      "network": "WhatsApp",
+      "url": "/maintenance",
+      "title": "Entre em Contato via WhatsApp.",
+      "textColor": "#eff1f5",
+      "backgroundColor": "#f5571b",
+      "borderRadius": ".75rem"
+    },
+    {
+      "network": "Mail",
+      "url": "mailto:contato@tulipan.com.br",
+      "title": "Ou se Preferir por E-mail...",
+      "textColor": "#eff1f5",
+      "backgroundColor": "#f5571b",
+      "borderRadius": ".75rem"
+    }
+  ],
+  "footer": {
+    "copyright": "Based on AstroLinkHub by MarcosKlender",
+    "url": "https://github.com/MarcosKlender/AstroLinkHub"
+  }
+}
