@@ -39,6 +39,7 @@
     {
       "network": "Link",
       "url": "/maintenance",
+      "title": "",
       "textColor": "#eff1f5",
       "backgroundImage": "cover.webp",
       "backgroundColor": null,
